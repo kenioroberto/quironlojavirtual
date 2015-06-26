@@ -46,7 +46,7 @@ namespace Quiron.LojaVirtual.Dominio.Entidade
         }
 
         //Limpar o carrinho
-        public void LiparCarrinho()
+        public void LimparCarrinho()
         {
             _itemCarrinho.Clear();
         }
